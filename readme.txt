@@ -1,0 +1,1 @@
+This contains a number of C++ programs that do various little things that aren't particularly useful but fun. This is also a good test bed to futz around with Git.
